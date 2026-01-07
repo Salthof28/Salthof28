@@ -1,8 +1,5 @@
 ## Hi there, I'm Salman Althof
 
-<!--
-**Salthof28/Salthof28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Software Engineer with a strong systems & industrial engineering background, experienced in building scalable, high-performance web applications and maintaining mission-critical production systems.
 
 ###🛠 Tech Stack
