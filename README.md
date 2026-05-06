@@ -1,7 +1,7 @@
 ## Hi there, I'm Salman Althof
 
 # 💫 About Me:
-👨‍💻 Software Engineer documenting my transition from industrial systems to web<br>🏭 4+ years working with real-time SCADA systems<br>🚀 Building full-stack apps focused on performance & reliability<br>🌱 Learning in public about backend engineering & system design<br>🤝 Enjoy collaborating in cross-functional teams
+👨‍💻 Software Engineer my transition from industrial systems to web<br>🏭 4+ years working with real-time SCADA systems<br>🚀 Building full-stack apps focused on performance & reliability<br>🌱 Learning in public about backend engineering & system design<br>🤝 Enjoy collaborating in cross-functional teams
 
 
 ## 🌐 Socials:
